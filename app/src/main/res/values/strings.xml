@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Holy</string>
+    <string name="detail"> <name>Bittu Kumar Mandal</name>
+        <address>Gla University,Mathura
+            Uttarpradesh, 280193, </address>
+       <country>India</country>
+        <email>bittuexample@gmail.com</email>
+       <phone>+91-9999999999</phone>
+
+    </string>
+    <string name="marks"><marks1>10th   60%   2011</marks1>
+        <marks2>12th   60%   2013</marks2>
+        <marks3>BCA   60%   2017</marks3>
+        <marks4>MCA 60%   2021</marks4>
+    </string>
+</resources>
